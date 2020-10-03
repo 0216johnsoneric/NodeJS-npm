@@ -1,0 +1,15 @@
+{
+  "name": "example13",
+  "version": "1.0.0",
+  "description": "how to create npm file",
+  "main": "index.js",
+  "dependencies": {
+    "badmath": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
